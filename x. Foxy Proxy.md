@@ -1,4 +1,4 @@
-# Foxy Proxy Setup
+# 0.1 Foxy Proxy Setup
 
 **Note that this is optional, you can directly use Burp Suite's browser from the proxy tab.**
 
